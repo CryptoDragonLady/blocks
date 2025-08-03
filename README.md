@@ -124,7 +124,7 @@ The game can be easily customized by modifying:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](LICENSE).
 
 ## 🎉 Acknowledgments
 
