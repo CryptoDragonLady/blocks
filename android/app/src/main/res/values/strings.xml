@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">blocks</string>
+    <string name="title_activity_main">blocks</string>
+    <string name="package_name">com.blocks.app</string>
+    <string name="custom_url_scheme">com.blocks.app</string>
+</resources>
