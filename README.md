@@ -2,6 +2,8 @@
 
 A modern, responsive Tetris game built with React and Vite. Features classic Tetris gameplay with both desktop and mobile controls, scoring system, and a 3-minute time challenge.
 
+![Tetris Game Screenshot](Screenshot.png)
+
 ## 🎮 Features
 
 - **Classic Tetris Gameplay**: All 7 traditional Tetris pieces (I, J, L, O, S, T, Z)
