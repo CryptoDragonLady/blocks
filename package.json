@@ -13,7 +13,7 @@
     "@capacitor/android": "^7.4.2",
     "@capacitor/cli": "^7.4.2",
     "@capacitor/core": "^7.4.2",
-    "@react-native-community/cli": "^19.1.1",
+    "@react-native-community/cli": "^19.1.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-native": "^0.80.2"
